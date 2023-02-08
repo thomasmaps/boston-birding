@@ -1,4 +1,8 @@
 {
+  "attributes": {
+    "portalUrl": "https://docs.maps.arcgis.com/",
+    "clientId": "wFMi0Nz4cYwuWYSh"
+  },
   "pages": {
     "home": {
       "label": "BirdinginBoston",
